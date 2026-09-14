@@ -1,0 +1,6 @@
+name=input("what is your name?")
+print("Hey," + name + "!")
+id=input("What is your Student ID Number?")
+print("Ah," + id + ", got it!")
+year=input("What year of study are you in?")
+print("Oh cool! You're in " + year)
