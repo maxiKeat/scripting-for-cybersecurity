@@ -1,2 +1,6 @@
 Linux command line lab
+<<<<<<< HEAD
 Scripting for cybersecurity
+=======
+Scripting for Cybersecurity
+>>>>>>> 811753d87dd27c08c7db75dd5bfa902919bf5ec8
