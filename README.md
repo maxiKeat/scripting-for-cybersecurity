@@ -3,3 +3,6 @@ This repository contains my practical work for the Scripting for Cybersecurity m
 Semester work
 #labs
 - Lab 01 - Development Environment
+- Lab 02 - Into to Linux Command Line
+- Lab 03 - Text Processing and Log Analysis
+- Lab 04 - Finding Files and Working with Data
