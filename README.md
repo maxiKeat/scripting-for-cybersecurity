@@ -6,3 +6,4 @@ Semester work
 - Lab 02 - Into to Linux Command Line
 - Lab 03 - Text Processing and Log Analysis
 - Lab 04 - Finding Files and Working with Data
+- Lab 05 - Commands and Scripts
